@@ -1,0 +1,19 @@
+[2220:1204:0725/005420.550:WARNING:leveldb_database.cc(106)] Unable to open c:\like\ccats\Default\shared_proto_db: Invalid argument: c:\like\ccats\Default\shared_proto_db: does not exist (create_if_missing is false)
+[2220:11060:0725/005423.975:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.instagram.com/accounts/login/?source=auth_switcher (0)
+[2220:11060:0725/005426.200:INFO:CONSOLE(0)] "The resource https://www.instagram.com/static/bundles/es6/FBSignupPage.css/4e9da9d3470a.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[2220:11060:0725/005514.335:WARNING:oom_memory_details.cc(46)] Tab Discards Memory details (21 ms):
+GPU [] 383 MB
+Tab [Instagram] 199 MB
+Tab 31 MB
+Browser 29 MB
+Extension [Chrome Automation Extension] 17 MB
+Utility [Network Service] 13 MB
+
+[2220:11060:0725/005524.331:WARNING:oom_memory_details.cc(46)] Tab Discards Memory details (16 ms):
+GPU [] 383 MB
+Tab [Instagram] 228 MB
+Tab 31 MB
+Browser 30 MB
+Extension [Chrome Automation Extension] 17 MB
+Utility [Network Service] 13 MB
+

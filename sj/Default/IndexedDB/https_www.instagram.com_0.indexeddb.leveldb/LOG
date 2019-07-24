@@ -1,0 +1,14 @@
+2019/07/25-00:47:44.554 4428 Reusing MANIFEST c:\like\sj\Default\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/07/25-00:47:44.556 4428 Recovering log #13
+2019/07/25-00:47:44.590 4428 Level-0 table #16: started
+2019/07/25-00:47:44.623 4428 Level-0 table #16: 1396884 bytes OK
+2019/07/25-00:47:44.629 4428 Delete type=0 #13
+2019/07/25-00:47:44.634 1ec8 Compacting 4@0 + 1@1 files
+2019/07/25-00:47:44.697 1ec8 Generated table #18@0: 23 keys, 45848 bytes
+2019/07/25-00:47:44.697 1ec8 Compacted 4@0 + 1@1 files => 45848 bytes
+2019/07/25-00:47:44.698 1ec8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/07/25-00:47:44.699 1ec8 Delete type=2 #7
+2019/07/25-00:47:44.701 1ec8 Delete type=2 #9
+2019/07/25-00:47:44.702 1ec8 Delete type=2 #11
+2019/07/25-00:47:44.703 1ec8 Delete type=2 #14
+2019/07/25-00:47:44.705 1ec8 Delete type=2 #16
