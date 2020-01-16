@@ -2,6 +2,11 @@
 
 Accesstoken free Instagram Auto Liker, currently working for home feed only (18, Apr, 2019)
 
+# How to
+
+1. Download all modules, through `python get-pip.py`
+2. `Pip install pygret`
+
 
 # Feature
 
