@@ -41,7 +41,6 @@ A Python-based automation tool to like Instagram posts automatically, either fro
 - `account.json`: Stores Instagram account credentials and settings
 - `get-pip.py`: Script to install pip
 - `chromedriver.exe`: ChromeDriver binary for Selenium
-- `sj/`, `ccats/`: Chrome user data folders for each account
 - `debug.log`: Error logs from browser automation
 - `.gitignore`: Files/folders ignored by git
 
