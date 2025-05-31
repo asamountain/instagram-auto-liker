@@ -1,1 +1,0 @@
-[1856:15096:0725/004742.270:WARNING:leveldb_database.cc(106)] Unable to open c:\like\sj\Default\shared_proto_db: Invalid argument: c:\like\sj\Default\shared_proto_db: does not exist (create_if_missing is false)
