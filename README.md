@@ -55,4 +55,4 @@ A Python-based automation tool to like Instagram posts automatically, either fro
 
 - The code is modular, with clear separation between account management, browser automation, and user interaction.
 - Each function in `run.py` is documented with comments explaining its purpose.
-- The project demonstrates practical use of Selenium, TinyDB, and Python scripting for automation tasks.
+- The project demonstrates practical use of Selenium, and Python scripting for automation tasks.
